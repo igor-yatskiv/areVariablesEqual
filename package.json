@@ -1,0 +1,27 @@
+{
+  "name": "arevariablesequal",
+  "version": "0.0.1",
+  "description": "Shallow compare two variables. Returns Boolean.",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/igor-yatskiv/areVariablesEqual.git"
+  },
+  "keywords": [
+    "js",
+    "JavaScript",
+    "variables",
+    "objects",
+    "arrays",
+    "equal"
+  ],
+  "author": "Igor Yatskiv",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/igor-yatskiv/areVariablesEqual/issues"
+  },
+  "homepage": "https://github.com/igor-yatskiv/areVariablesEqual#readme"
+}
