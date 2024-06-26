@@ -1,6 +1,6 @@
 {
   "name": "are-variables-equal",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Shallow compare two variables. Returns Boolean.",
   "main": "areVariablesEqual.js",
   "scripts": {
