@@ -1,8 +1,6 @@
 import uint from 'uint';
 
 function areVariablesEqual(variableOne, variableTwo) {
-  console.log('uint', uint());
-
   const variablesType = typeof variableOne;
 
   // Return false if primitive types does not match

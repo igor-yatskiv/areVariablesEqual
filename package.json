@@ -1,8 +1,8 @@
 {
-  "name": "arevariablesequal",
+  "name": "are-variables-equal",
   "version": "0.0.1",
   "description": "Shallow compare two variables. Returns Boolean.",
-  "main": "src/index.js",
+  "main": "areVariablesEqual.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -23,5 +23,6 @@
   "bugs": {
     "url": "https://github.com/igor-yatskiv/areVariablesEqual/issues"
   },
-  "homepage": "https://github.com/igor-yatskiv/areVariablesEqual#readme"
+  "homepage": "https://github.com/igor-yatskiv/areVariablesEqual#readme",
+  "type": "module"
 }
