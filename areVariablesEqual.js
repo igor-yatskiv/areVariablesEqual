@@ -1,5 +1,3 @@
-import uint from 'uint';
-
 function areVariablesEqual(variableOne, variableTwo) {
   const variablesType = typeof variableOne;
 
